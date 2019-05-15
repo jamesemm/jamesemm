@@ -14,6 +14,7 @@ public class studentester {
 
 public static void main(String[] args)
     {
+      //main code
       studentdemo s1=new studentdemo();
       s1.setName("alfred john dzousa");
       System.out.println(s1.getName());
